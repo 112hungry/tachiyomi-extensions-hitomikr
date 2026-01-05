@@ -1,0 +1,11 @@
+.github/workflows/build.yml
+src/id/hitomikr/HitomiKR.kt
+src/id/hitomikr/build.gradle
+build.gradle
+common.gradle
+settings.gradle
+gradle.properties
+gradlew
+gradlew.bat
+repo/index.min.json
+README.md
